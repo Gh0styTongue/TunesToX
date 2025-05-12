@@ -1,6 +1,6 @@
 # TunesToX
 
-**TunesToX** is a simple desktop app that lets you combine an audio file and an optional image into a video with a watermark and quickly open the Twitter/X tweet composer to share your creation.
+**TunesToX** is a simple desktop app that lets you combine an audio file and an optional image into a video and quickly open the Twitter/X tweet composer to share your creation.
 
 No Twitter API keys needed. No logins. No limits.
 
@@ -9,7 +9,6 @@ No Twitter API keys needed. No logins. No limits.
 - Supports MP3, WAV, FLAC, M4A audio files
 - Optional image support (JPG, PNG, etc.)
 - If no image is provided, creates a black background video
-- Adds a watermark automatically: `github.com/Gh0styTongue`
 - Uses `ffmpeg` for fast video creation
 - Opens the Twitter/X composer with your tweet text pre-filled
 - Replaces the old video automatically if one exists
