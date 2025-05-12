@@ -44,12 +44,10 @@ No Twitter API keys needed. No logins. No limits.
 No image:
 
 - Creates a black 1280x720 video matching the length of your audio.
-- Adds the watermark.
-
+  
 With image:
 
 - Uses your image as the video background.
-- Adds the watermark.
 
 ## Credits
 
